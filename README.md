@@ -28,16 +28,16 @@ pip install numpy pandas matplotlib tensorflow scikit-learn
 
 ## 🔍 Project Details
 🧠 Neural Networks on Customer Churn 
-In these notebooks, we build and train neural network models to predict customer churn. The approach includes: <br>
-Data preprocessing and feature scaling. <br>
-Implementing a multi-layer perceptron (MLP) model using TensorFlow. <br>
-Model evaluation using accuracy, precision, and recall metrics. <br>
+- In these notebooks, we build and train neural network models to predict customer churn. The approach includes: <br>
+- Data preprocessing and feature scaling. <br>
+- Implementing a multi-layer perceptron (MLP) model using TensorFlow. <br>
+- Model evaluation using accuracy, precision, and recall metrics. <br>
 
 🏪 Walmart Sales Forecasting
-In this part of the project, we use time series analysis on Walmart's sales data. The steps include: <br>
-Data cleaning and handling missing values. <br> 
-Implementing an ARIMA model to forecast sales. <br>
-Comparing different windowing techniques (Expanding vs Sliding Window). <br>
+- In this part of the project, we use time series analysis on Walmart's sales data. The steps include: <br>
+- Data cleaning and handling missing values. <br> 
+- Implementing an ARIMA model to forecast sales. <br>
+- Comparing different windowing techniques (Expanding vs Sliding Window). <br>
 
 🚀 How to Run: <br>
 Clone the repository to your local machine:
