@@ -28,18 +28,18 @@ pip install numpy pandas matplotlib tensorflow scikit-learn
 
 ## 🔍 Project Details
 🧠 Neural Networks on Customer Churn 
-In these notebooks, we build and train neural network models to predict customer churn. The approach includes:
-Data preprocessing and feature scaling.
-Implementing a multi-layer perceptron (MLP) model using TensorFlow.
-Model evaluation using accuracy, precision, and recall metrics.
+In these notebooks, we build and train neural network models to predict customer churn. The approach includes: <br>
+Data preprocessing and feature scaling. <br>
+Implementing a multi-layer perceptron (MLP) model using TensorFlow. <br>
+Model evaluation using accuracy, precision, and recall metrics. <br>
 
 🏪 Walmart Sales Forecasting
-In this part of the project, we use time series analysis on Walmart's sales data. The steps include:
-Data cleaning and handling missing values.
-Implementing an ARIMA model to forecast sales.
-Comparing different windowing techniques (Expanding vs Sliding Window).
+In this part of the project, we use time series analysis on Walmart's sales data. The steps include: <br>
+Data cleaning and handling missing values. <br> 
+Implementing an ARIMA model to forecast sales. <br>
+Comparing different windowing techniques (Expanding vs Sliding Window). <br>
 
-🚀 How to Run:
+🚀 How to Run: <br>
 Clone the repository to your local machine:
 ```bash
 git clone https://github.com/yourusername/Neural-Networks-Data-Analysis.git
@@ -55,6 +55,6 @@ jupyter notebook NeuralNetworks_Cau1.ipynb
 Ensure the datasets Walmart.csv and Customer_Churn_01.csv are in the same directory as the notebooks.
 
 ## 👨‍💻 Author
-Dat Nguyen
-Email: ngvdat.w@gmail.com
+Dat Nguyen <br>
+Email: ngvdat.w@gmail.com <br>
 GitHub: github.com/vdat-18
